@@ -1,0 +1,26 @@
+{
+  "name": "employee-database-using-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anisha-C/Employee-Database-using-MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anisha-C/Employee-Database-using-MySQL/issues"
+  },
+  "homepage": "https://github.com/Anisha-C/Employee-Database-using-MySQL#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql2": "^2.3.3"
+  }
+}
